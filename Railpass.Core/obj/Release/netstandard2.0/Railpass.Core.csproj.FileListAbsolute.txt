@@ -1,0 +1,9 @@
+E:\Projects\Qframe\Railpass\Railpass.Core\bin\Release\netstandard2.0\Railpass.Core.deps.json
+E:\Projects\Qframe\Railpass\Railpass.Core\bin\Release\netstandard2.0\Railpass.Core.dll
+E:\Projects\Qframe\Railpass\Railpass.Core\bin\Release\netstandard2.0\Railpass.Core.pdb
+E:\Projects\Qframe\Railpass\Railpass.Core\obj\Release\netstandard2.0\Railpass.Core.csproj.CoreCompileInputs.cache
+E:\Projects\Qframe\Railpass\Railpass.Core\obj\Release\netstandard2.0\Railpass.Core.AssemblyInfoInputs.cache
+E:\Projects\Qframe\Railpass\Railpass.Core\obj\Release\netstandard2.0\Railpass.Core.AssemblyInfo.cs
+E:\Projects\Qframe\Railpass\Railpass.Core\obj\Release\netstandard2.0\Railpass.Core.dll
+E:\Projects\Qframe\Railpass\Railpass.Core\obj\Release\netstandard2.0\Railpass.Core.pdb
+E:\Projects\Qframe\Railpass\Railpass.Core\obj\Release\netstandard2.0\Railpass.Core.csprojAssemblyReference.cache
